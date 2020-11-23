@@ -1,0 +1,11 @@
+TEXT SUMMARIZER WITH GENISM & SPACY 
+                                         Thesis Abstract report by Ravinthiran Partheepan (Master Programme-Applied Informatics-1st year) 
+ 
+ABSTRACT :- 
+Text summarization is a process of extracting or collecting important information from original text and presents that information in the form of summary. Text summarization has become the necessity of many applications for example search engine, business analysis, market review. Summarization helps to gain required information in less time. This innovation is an attempt to summarize and present the view of text summarization from every aspect from its beginning till date. The two major approaches i.e., extractive and abstractive summarization is discussed in detail. The technique deployed for summarization ranges from structured to linguistic. For example : In India many languages(Tamil,Hindi,Telugu…) also the work has being done, but presently they are in infancy state. This paper provides an abstract view of the present scenario of research work for text summarization. 
+Packages Used :- Genism,Spacy,Summarizer[GUI],Tkinter. 
+Algorithm :- Text Rank and Cluster Rank Algorithm. 
+Methods :- Extractive and Abstractive Summarizer. 
+Goal of this Research :- Achieve Text Summarization in Multi-language (English,Tamil) 
+ 
+ 
